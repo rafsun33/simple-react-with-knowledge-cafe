@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/PFN9H6r/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
+        "author_img": "https://i.ibb.co/LkXRcgH/photo-1494790108377-be9c29b29330.jpg",
+        "author": "John Doe",
+        "posted_date": "2023-09-10",
+        "reading_time": "8 mins",
+        "title": "The Art of Imaginary Painting",
+        "hashtags": [
+            "#ArtisticDreams",
+            "#CreativeExpression"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/xFSLQMW/thought-catalog-505eect-W54k-unsplash.jpg",
+        "author_img": "https://i.ibb.co/Xt8YHVv/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+        "author": "Jane Smith",
+        "posted_date": "2023-09-09",
+        "reading_time": "5 mins",
+        "title": "Exploring the Mysteries of the Quantum Universe",
+        "hashtags": [
+            "#QuantumPhysics",
+            "#CosmicWonders"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/rsV6zNm/paniz-gm-RBMZTPcquy4-unsplash.jpg",
+        "author_img": "https://i.ibb.co/yhcpJjb/vince-veras-AJIq-ZDAUD7-A-unsplash.jpg",
+        "author": "David Johnson",
+        "posted_date": "2023-09-08",
+        "reading_time": "10 mins",
+        "title": "A Journey Through Time and Space",
+        "hashtags": [
+            "#TimeTravel",
+            "#SpaceExploration"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/5vRmp4H/lum3n-RBu-Q2-PK-L8-unsplash.jpg",
+        "author_img": "https://i.ibb.co/xCDPKbg/ben-den-engelsen-YUu9-UAc-OKZ4-unsplash.jpgg",
+        "author": "Emily White",
+        "posted_date": "2023-09-07",
+        "reading_time": "6 mins",
+        "title": "Cooking Up Culinary Delights",
+        "hashtags": [
+            "#GourmetCuisine",
+            "#FoodieAdventures"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/1mgSGzX/carl-heyerdahl-KE0n-C8-58-MQ-unsplash.jpg",
+        "author_img": "https://i.ibb.co/8NmNkJ4/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+        "author": "Michael Brown",
+        "posted_date": "2023-09-06",
+        "reading_time": "7 mins",
+        "title": "The Power of Mindfulness Meditation",
+        "hashtags": [
+            "#Mindfulness",
+            "#MentalWellness"
+        ]
+    }
+]
