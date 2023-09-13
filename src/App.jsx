@@ -11,12 +11,18 @@ function App() {
     setBookmarks( [...bookmarks, blog] )
   }
 
+  const [readingTime, setReadingTime] = useState(0)
+
+  const clickMarkAsRead = (time) => {
+    setReadingTime(readingTime + time)
+  }
+
   return (
     <>
       <Header></Header>
       <div className='flex gap-8 mx-20'>
-        <Blogs clickToBookmark={clickToBookmark}></Blogs>
-        <Bookmarks bookmarks={bookmarks}></Bookmarks>
+        <Blogs clickMarkAsRead={clickMarkAsRead} clickToBookmark={clickToBookmark}></Blogs>
+        <Bookmarks readingTime={readingTime} bookmarks={bookmarks}></Bookmarks>
       </div>
     </>
   )
